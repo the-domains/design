@@ -3,12 +3,12 @@ isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
-description: A collection of things Nick thinks are nice.
+description: ''
 title: These Are Nice Things.
-dateModified: '2015-08-30T23:00:06.125Z'
+dateModified: '2015-08-30T23:02:43.772Z'
 tags:
   - ''
-datePublished: '2015-08-30T23:00:26.710Z'
+datePublished: '2015-08-30T23:02:56.851Z'
 sourcePath: _posts/2015-08-30-these-are-nice-things.md
 published: true
 authors: []
@@ -20,4 +20,4 @@ publisher:
 _type: MediaObject
 
 ---
-A collection of things I like
+A Collection of Nice Things
