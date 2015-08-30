@@ -1,0 +1,26 @@
+name: design
+favicon: null
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#af8965'
+    - '#8d9d90'
+    - '#8b664b'
+    - '#679092'
+    - '#488391'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
