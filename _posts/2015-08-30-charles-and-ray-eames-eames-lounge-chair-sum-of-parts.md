@@ -35,8 +35,8 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=IYwPMtx38Eg'
 title: 'Charles and Ray Eames // Eames Lounge Chair : Sum of Parts'
-datePublished: '2015-08-30T04:46:49.505Z'
-dateModified: '2015-08-30T04:46:32.040Z'
+datePublished: '2015-08-30T06:40:02.567Z'
+dateModified: '2015-08-30T06:39:39.481Z'
 sourcePath: _posts/2015-08-30-charles-and-ray-eames-eames-lounge-chair-sum-of-parts.md
 published: true
 _type: VideoObject
