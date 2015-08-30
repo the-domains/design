@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[design]]></title>
+        <description><![CDATA[design]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 30 Aug 2015 01:46:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Cloud of 100,000 Illuminated Balloons Suspended Inside Covent Garden by Charles Pétillion]]></title>
+            <description><![CDATA[<article><h1>A Cloud of 100,000 Illuminated Balloons Suspended Inside Covent Garden by Charles Pétillion</h1><p>French artist and photographer Charles Pétillion has just unveiled a cumulus cloud composed of 100,000 white balloons illuminated from the inside at London's Covent Garden. Titled 'Hearbeat,' the installation was created as part of the upcoming London Design Festival and stretches the length of the South Hall ceiling of the Market Building.</p><img src="http://www.thisiscolossal.com/wp-content/uploads/2015/08/clouds-og.jpg"></article>]]></description>
+            <link>http://www.thisiscolossal.com/2015/08/covent-garden-balloons/</link>
+            <guid isPermaLink="false">f4e0e62b-adfa-489b-bd41-463a3ab9017a</guid>
+            <pubDate>Sun, 30 Aug 2015 01:45:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
