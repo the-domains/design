@@ -1,5 +1,6 @@
 name: design
 favicon: null
+layout_spectrum: 1
 cta:
   domain: null
   bucket: null
