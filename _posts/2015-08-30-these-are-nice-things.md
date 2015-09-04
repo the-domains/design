@@ -1,14 +1,14 @@
 ---
 isBasedOnUrl: 'http://theworldsbest.com'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
-description: ''
-title: These Are Nice Things.
-dateModified: '2015-08-31T03:29:05.226Z'
+description: From the internet.
+title: These Are Some Nice Things.
+dateModified: '2015-08-31T14:43:04.345Z'
 tags:
   - ''
-datePublished: '2015-08-31T03:29:29.198Z'
+datePublished: '2015-09-04T21:33:29.909Z'
 sourcePath: _posts/2015-08-30-these-are-nice-things.md
 published: true
 authors: []
