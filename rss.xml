@@ -5,8 +5,15 @@
         <description><![CDATA[design]]></description>
         <link>https://thegrid.ai/design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Sep 2015 19:29:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2015 19:30:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/design/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Phaidon Design Classics | Design | Phaidon Store]]></title>
+            <description><![CDATA[<article><h1>Phaidon Design Classics | Design | Phaidon Store</h1><p>Phaidon Design Classics by Phaidon Editors. A three-volume set containing the ultimate selection of design classics. Order online from the Phaidon Store.</p><img src="http://www.phaidon.com/resource/bs-9780714843995.jpg"></article>]]></description>
+            <link>http://www.phaidon.com/store/design/phaidon-design-classics-9780714843995/</link>
+            <guid isPermaLink="false">9180c688-a1aa-40b2-a732-c5364675305e</guid>
+            <pubDate>Tue, 22 Sep 2015 19:29:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Frank Chimero - What Screens Want]]></title>
             <description><![CDATA[<article><h1>Frank Chimero - What Screens Want</h1><p>Some thoughts on digital canvases The past two years were a wild goose chase for answers. I read books, looked at art, listened to my heroes, and sketched out scratchy thoughts of my own to search for any sensible response to a question that had been lodged in my head for months.</p><img src="http://frankchimero.com/img/writing/webs-grain.jpg"></article>]]></description>
@@ -68,12 +75,6 @@
             <link>http://www.adablackjackgoods.com/collections/frontpage/products/no-2-backpack-terracotta</link>
             <guid isPermaLink="false">233a2cd7-396f-4f81-86bf-a0126aedd751</guid>
             <pubDate>Sun, 30 Aug 2015 02:52:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf8e772e-5fa2-45d2-91bf-474c9c2ef1b2.jpg">]]></description>
-            <guid isPermaLink="false">69d105d5-2888-449d-9b3a-4efafaca34a7</guid>
-            <pubDate>Sun, 30 Aug 2015 02:50:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
