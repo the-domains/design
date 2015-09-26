@@ -1,7 +1,8 @@
-name: design
-favicon: null
-layout_spectrum: 0.69058
-typography_spectrum: 0.2295
+layout_spectrum: 0.3727598
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - filter:
       notType:
@@ -26,27 +27,26 @@ collections:
     permalink:
       path: '/:title/'
       navigable: true
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 color:
+  saturation: 0.0625
+  brandStrength: 0
+  rhythmicContrast: 0.75
   brandColors:
     - '#ffffff'
     - '#666666'
     - '#989898'
     - '#000000'
     - '#db1b22'
-  brandStrength: 0
   lightness: 0
-  saturation: 0.0625
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: design
