@@ -1,19 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[design]]></title>
         <description><![CDATA[design]]></description>
         <link>https://thegrid.ai/design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Sep 2015 17:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2015 16:01:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/design/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Frank Chimero - What Screens Want]]></title>
-            <description><![CDATA[<article><h1>Frank Chimero - What Screens Want</h1><p>Some thoughts on digital canvases The past two years were a wild goose chase for answers. I read books, looked at art, listened to my heroes, and sketched out scratchy thoughts of my own to search for any sensible response to a question that had been lodged in my head for months.</p><img src="http://frankchimero.com/img/writing/webs-grain.jpg"></article>]]></description>
-            <link>http://frankchimero.com/writing/what-screens-want/</link>
-            <guid isPermaLink="false">82344172-e18e-4ea9-9589-f08e882de3cf</guid>
-            <pubDate>Tue, 22 Sep 2015 19:29:30 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Lars Müller Publishers - Lars Müller Publishers]]></title>
             <description><![CDATA[<article><h1>Lars Müller Publishers - Lars Müller Publishers</h1><p>The famous Italian designer Massimo Vignelli allows us a glimpse of his understanding of good design in this book, its rules and criteria. He uses numerous examples to convey applications in practice - from product design via signaletics and grap</p><img src="http://www.lars-mueller-publishers.com/media/catalog/product/cache/4/image/448x/040ec09b1e35df139433887a97daa66f/v/i/vignelli_cover_eg.jpg"></article>]]></description>
