@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Dieter Rams / 10 Principles for Good Design
-datePublished: '2015-10-26T16:24:27.277Z'
-dateModified: '2015-10-26T16:24:23.434Z'
+datePublished: '2015-10-30T15:11:33.954Z'
+dateModified: '2015-10-30T15:11:28.756Z'
 author: []
 title: ''
 sourcePath: _posts/2015-09-18-dieter-rams-10-principles-for-good-design.md
