@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://randomitus.tumblr.com/post/84040853439/shari-vari-mr-90-barcelona-seat-by-ludwig-mies'
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -17,15 +16,15 @@ keywords:
   - scrapbook
   - woollymuffler
 description: 'shari-vari: MR 90 Barcelona Seat by Ludwig Mies van der Rohe'
-datePublished: '2015-10-31T22:30:39.086Z'
-dateModified: '2015-10-31T22:30:35.327Z'
+datePublished: '2015-11-09T22:20:29.148Z'
+dateModified: '2015-11-09T22:20:25.492Z'
 author:
   - name: randomitus
     url: 'http://randomitus.tumblr.com'
     avatar: {}
 related: []
 app_links: []
-title: 'shari-vari: MR 90 Barcelona Seat by Lud...'
+title: Van der Rohe
 sourcePath: _posts/2015-10-31-shari-vari-mr-90-barcelona-seat-by-lud.md
 published: true
 authors: []
@@ -34,6 +33,7 @@ publisher:
   domain: randomitus.tumblr.com
   url: 'http://tumblr.com'
   favicon: 'http://33.media.tumblr.com/avatar_35edec578f7b_128.png'
+url: van-der-rohe/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
