@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-09T22:17:54.864Z'
-dateModified: '2015-11-09T22:17:41.727Z'
+datePublished: '2015-11-09T22:24:51.476Z'
+dateModified: '2015-11-09T22:24:48.459Z'
 title: Glaser on Digital Design
 sourcePath: _posts/2015-11-05-glaser-on-digital-design.md
 published: true
