@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.lars-mueller-publishers.com'
-  name: Lars-mueller-publishers
-  favicon: null
-  domain: www.lars-mueller-publishers.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - vignellis
   - design
@@ -18,14 +16,21 @@ keywords:
   - typefaces
   - 978-3-03778-225-5
 description: 'The famous Italian designer Massimo Vignelli allows us a glimpse of his understanding of good design in this book, its rules and criteria. He uses numerous examples to convey applications in practice - from product design via signaletics and grap'
-inLanguage: en
+datePublished: '2015-11-09T22:18:42.617Z'
+dateModified: '2015-11-09T22:18:33.095Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.lars-mueller-publishers.com/en/der-vignelli-kanon'
-title: Lars Müller Publishers - Lars Müller Publishers
-datePublished: '2015-09-22T19:29:29.896Z'
-dateModified: '2015-09-22T19:27:07.847Z'
+title: Vignelli
 sourcePath: _posts/2015-09-22-lars-muller-publishers-lars-muller-publishers.md
 published: true
+authors: []
+publisher:
+  name: Lars-mueller-publishers
+  domain: www.lars-mueller-publishers.com
+  url: 'http://www.lars-mueller-publishers.com'
+  favicon: null
+url: vignelli/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
