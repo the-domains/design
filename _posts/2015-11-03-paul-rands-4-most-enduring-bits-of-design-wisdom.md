@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.fastcodesign.com'
-  name: Co.Design
-  favicon: 'http://www.fastcodesign.com/favicon.ico'
-  domain: www.fastcodesign.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - design
   - rand
@@ -18,17 +16,21 @@ keywords:
   - form
   - beauty
 description: 'In 1947, at 33 years old, Paul Rand published Thoughts on Design , a 100-page illustrated volume articulating his pioneering vision for design that seamlessly integrated "the beautiful and the useful." Rand, largely self-taught and already a sensation as chief art director at ad agency William H.'
-inLanguage: en
+datePublished: '2015-11-09T22:18:01.173Z'
+dateModified: '2015-11-09T22:17:13.183Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.fastcodesign.com/3035941/paul-rands-4-most-enduring-bits-of-design-wisdom'
-title: "Paul Rand's 4 Most Enduring Bits Of Design Wisdom"
-datePublished: '2015-11-03T14:21:49.286Z'
-dateModified: '2015-11-03T14:21:28.612Z'
+title: Rand
 sourcePath: _posts/2015-11-03-paul-rands-4-most-enduring-bits-of-design-wisdom.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Co.Design
+  domain: www.fastcodesign.com
+  url: 'http://www.fastcodesign.com'
+  favicon: 'http://www.fastcodesign.com/favicon.ico'
+url: rand/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
