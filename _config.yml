@@ -45,7 +45,7 @@ color:
     - '#989898'
     - '#000000'
     - '#db1b22'
-  brandStrength: 0
+  brandStrength: 0.0625
   lightness: 0.5625
   saturation: 0
   rhythmicContrast: 0.75
