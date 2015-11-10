@@ -16,8 +16,8 @@ keywords:
   - scrapbook
   - woollymuffler
 description: 'shari-vari: MR 90 Barcelona Seat by Ludwig Mies van der Rohe'
-datePublished: '2015-11-09T22:20:29.148Z'
-dateModified: '2015-11-09T22:20:25.492Z'
+datePublished: '2015-11-10T02:25:02.220Z'
+dateModified: '2015-11-10T02:24:59.532Z'
 author:
   - name: randomitus
     url: 'http://randomitus.tumblr.com'
