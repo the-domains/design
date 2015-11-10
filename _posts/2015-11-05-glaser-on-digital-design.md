@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-11-09T22:24:51.476Z'
-dateModified: '2015-11-09T22:24:48.459Z'
+description: Not a big fan of starting digital
+datePublished: '2015-11-10T01:03:42.567Z'
+dateModified: '2015-11-10T01:03:38.517Z'
 title: Glaser on Digital Design
 sourcePath: _posts/2015-11-05-glaser-on-digital-design.md
 published: true
