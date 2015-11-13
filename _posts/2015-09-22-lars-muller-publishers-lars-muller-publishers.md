@@ -1,5 +1,5 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: en
@@ -16,8 +16,8 @@ keywords:
   - typefaces
   - 978-3-03778-225-5
 description: 'The famous Italian designer Massimo Vignelli allows us a glimpse of his understanding of good design in this book, its rules and criteria. He uses numerous examples to convey applications in practice - from product design via signaletics and grap'
-datePublished: '2015-11-10T02:25:26.812Z'
-dateModified: '2015-11-10T02:25:24.294Z'
+datePublished: '2015-11-13T04:35:57.988Z'
+dateModified: '2015-11-11T04:03:39.711Z'
 author: []
 related: []
 app_links: []
