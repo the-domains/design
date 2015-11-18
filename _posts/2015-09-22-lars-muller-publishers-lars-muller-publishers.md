@@ -16,12 +16,12 @@ keywords:
   - typefaces
   - 978-3-03778-225-5
 description: 'The famous Italian designer Massimo Vignelli allows us a glimpse of his understanding of good design in this book, its rules and criteria. He uses numerous examples to convey applications in practice - from product design via signaletics and grap'
-datePublished: '2015-11-13T04:35:57.988Z'
-dateModified: '2015-11-11T04:03:39.711Z'
+datePublished: '2015-11-18T04:16:57.582Z'
+dateModified: '2015-11-18T04:16:51.471Z'
 author: []
 related: []
 app_links: []
-title: Vignelli
+title: Vignelli Canon
 sourcePath: _posts/2015-09-22-lars-muller-publishers-lars-muller-publishers.md
 published: true
 authors: []
