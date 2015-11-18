@@ -16,12 +16,12 @@ keywords:
   - form
   - beauty
 description: 'In 1947, at 33 years old, Paul Rand published Thoughts on Design , a 100-page illustrated volume articulating his pioneering vision for design that seamlessly integrated "the beautiful and the useful." Rand, largely self-taught and already a sensation as chief art director at ad agency William H.'
-datePublished: '2015-11-13T04:40:29.683Z'
-dateModified: '2015-11-13T04:40:21.516Z'
+datePublished: '2015-11-18T04:16:05.607Z'
+dateModified: '2015-11-18T04:16:00.966Z'
 author: []
 related: []
 app_links: []
-title: Rand
+title: Paul Rand Thoughts
 sourcePath: _posts/2015-11-03-paul-rands-4-most-enduring-bits-of-design-wisdom.md
 published: true
 authors: []
