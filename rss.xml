@@ -4,7 +4,7 @@
         <description><![CDATA[Design I Like]]></description>
         <link>https://thegrid.ai/design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 19:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2016 19:27:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/design/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hayden Cox on The Great Discontent]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/design/f614dd01-a403-499f-a4cf-e4235a60aafb/index.html</link>
             <guid isPermaLink="false">f614dd01-a403-499f-a4cf-e4235a60aafb</guid>
             <pubDate>Fri, 01 Jul 2016 18:46:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This is the title]]></title>
+            <description><![CDATA[<article><h1>This is the title</h1><p>This is the description</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c87945f6fc3c9301ebdc647e93d6c38ba3b5ec67.jpg"></article>]]></description>
+            <link>https://thegrid.ai/design/leica-m/index.html</link>
+            <guid isPermaLink="false">badea647-2be9-4468-aeb6-df969285cb4c</guid>
+            <pubDate>Fri, 01 Jul 2016 19:27:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -54,13 +61,6 @@
             <link>https://thegrid.ai/design/a-long-overdue-documentary-about-dieter-rams/index.html</link>
             <guid isPermaLink="false">62146f33-252d-4889-ba1e-f205edfc54bd</guid>
             <pubDate>Fri, 01 Jul 2016 18:47:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This is the title]]></title>
-            <description><![CDATA[<article><h1>This is the title</h1><p>asdfas dfas;lfas ;ldfj asfd</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c87945f6fc3c9301ebdc647e93d6c38ba3b5ec67.jpg"></article>]]></description>
-            <link>https://thegrid.ai/design/leica-m/index.html</link>
-            <guid isPermaLink="false">badea647-2be9-4468-aeb6-df969285cb4c</guid>
-            <pubDate>Fri, 01 Jul 2016 18:47:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dieter Rams 10 Principles]]></title>
