@@ -1,5 +1,4 @@
 typography_spectrum: 1
-style: the-composer
 color:
   brandColors:
     - '#ffffff'
@@ -20,11 +19,18 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Nick Jones
+  email: nickjones@theexperiment.io
+  url: narrowdesign.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/46686586-5d85-4e7f-b17b-dd44c775fb09.png
 name: design
 cta:
   domain: null
   bucket: null
   version: null
+style: the-composer
 favicon: null
 collections:
   - filter:
