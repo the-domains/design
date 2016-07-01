@@ -1,11 +1,11 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.adablackjackgoods.com'
-  name: Adablackjackgoods
-  favicon: 'http://25.media.tumblr.com/avatar_df9584412dfe_16.png'
-  domain: www.adablackjackgoods.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: >-
+  http://www.adablackjackgoods.com/collections/frontpage/products/no-2-backpack-terracotta
+inLanguage: en
+starred: false
 keywords:
   - adablackjackgoods
   - please
@@ -17,15 +17,24 @@ keywords:
   - worldwide
   - spanish
   - packages
-description: 'Ada Blackjack goods are carefully crafted by hand using only the ﬁnest materials and fabrics. Each item is made with great attention to detail and special craftsmanship, essential when making goods that last. The minimal designs are characterized by simplicity, timelessness and durability.'
-inLanguage: en
+description: >-
+  Ada Blackjack goods are carefully crafted by hand using only the ﬁnest
+  materials and fabrics. Each item is made with great attention to detail and
+  special craftsmanship, essential when making goods that last. The minimal
+  designs are characterized by simplicity, timelessness and durability.
+datePublished: '2016-07-01T18:47:40.831Z'
+dateModified: '2015-11-19T23:56:50.942Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.adablackjackgoods.com/collections/frontpage/products/no-2-backpack-terracotta'
-title: 'Ada Blackjack Shop - Bags & Leather Goods'
-datePublished: '2015-08-30T02:52:08.369Z'
-dateModified: '2015-08-30T02:41:13.459Z'
+title: Ada Blackjack Shop - Bags & Leather Goods
 sourcePath: _posts/2015-08-30-ada-blackjack-shop-bags-and-leather-goods.md
-published: true
+authors: []
+publisher:
+  name: Adablackjackgoods
+  domain: www.adablackjackgoods.com
+  url: 'http://www.adablackjackgoods.com'
+  favicon: 'http://25.media.tumblr.com/avatar_df9584412dfe_16.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
