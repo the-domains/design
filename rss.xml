@@ -4,7 +4,7 @@
         <description><![CDATA[Design I Like]]></description>
         <link>https://thegrid.ai/design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 13:52:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2016 14:31:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/design/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Dieter Rams 10 Principles]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/design/rams/index.html</link>
             <guid isPermaLink="false">5ec8802f-beb4-4ed6-b344-196c85df4641</guid>
             <pubDate>Wed, 18 Nov 2015 04:17:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a86eaae6-83be-41d1-9aae-1996c54acb55.jpg">]]></description>
+            <link>https://thegrid.ai/design/f614dd01-a403-499f-a4cf-e4235a60aafb/index.html</link>
+            <guid isPermaLink="false">f614dd01-a403-499f-a4cf-e4235a60aafb</guid>
+            <pubDate>Fri, 01 Jul 2016 14:31:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.vitsoe.com/us/606</link>
             <guid isPermaLink="false">4c95adc0-2256-4a52-b19d-e8bafacf8dc6</guid>
             <pubDate>Tue, 10 Nov 2015 02:26:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MR 90 Barcelona Seat by Ludwig mies van der rohe]]></title>
-            <description><![CDATA[<article><h1>MR 90 Barcelona Seat by Ludwig mies van der rohe</h1><p>MR 90 Barcelona Seat by Ludwig Mies van der Rohe</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8adc17f7168348eff459e199df8843e1a95633e6.jpg"></article>]]></description>
-            <link>https://thegrid.ai/design/van-der-rohe/index.html</link>
-            <guid isPermaLink="false">4616628a-34f4-4c11-a6bf-1f38b5f25414</guid>
-            <pubDate>Tue, 10 Nov 2015 02:25:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
