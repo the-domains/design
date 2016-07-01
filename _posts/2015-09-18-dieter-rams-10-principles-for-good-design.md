@@ -3,21 +3,22 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
 keywords: []
-description: Dieter Rams / 10 Principles for Good Design
-datePublished: '2015-11-18T04:17:37.550Z'
-dateModified: '2015-11-18T04:17:34.120Z'
-author: []
-title: Dieter Rams 10 Principles
+description: >-
+  Back in the late 1970s, Dieter Rams was becoming increasingly concerned by the
+  state of the world around him - "an impenetrable confusion of forms, colours
+  and noises." Aware that he was a significant contributor to that world, he
+  asked himself an important question: is my design good design?
+datePublished: '2016-07-01T18:45:54.245Z'
+dateModified: '2016-07-01T18:45:53.706Z'
+author:
+  - name: ''
+    url: ''
+title: ''
 sourcePath: _posts/2015-09-18-dieter-rams-10-principles-for-good-design.md
-published: true
 authors: []
-publisher:
-  name: ''
-  domain: ''
-  url: null
-  favicon: null
+publisher: null
+starred: false
 url: rams/index.html
 _context: 'http://schema.org'
 _type: Article
