@@ -20,15 +20,22 @@ keywords:
   - japanese
   - odesd2
   - calligraphy
-description: 'Sleek and characterized by sharp edges and metallic finishes, Urkainian design bureau ODESD2 presented the E3, E4, and E1. The mini collection of chairs and bar stools are inspired by Japanese culture and fitting for a workspace, dining room, or bar area.'
+description: >-
+  Sleek and characterized by sharp edges and metallic finishes, Urkainian design
+  bureau ODESD2 presented the E3, E4, and E1. The mini collection of chairs and
+  bar stools are inspired by Japanese culture and fitting for a workspace,
+  dining room, or bar area.
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://design-milk.com/new-architectural-chairs-odesd2/'
 title: New Architectural Chairs from ODESD2 - Design Milk
-datePublished: '2015-08-30T02:11:35.733Z'
-dateModified: '2015-08-30T02:10:23.317Z'
+datePublished: '2016-07-01T18:47:42.982Z'
+dateModified: '2015-10-25T13:42:06.219Z'
 sourcePath: _posts/2015-08-30-new-architectural-chairs-from-odesd2-design-milk.md
-published: true
+starred: false
+inFeed: true
+hasPage: false
+inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
