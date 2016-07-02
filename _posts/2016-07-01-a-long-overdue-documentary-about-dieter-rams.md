@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-07-01T18:47:05.713Z'
+datePublished: '2016-07-02T21:25:34.744Z'
 sourcePath: _posts/2016-07-01-a-long-overdue-documentary-about-dieter-rams.md
 author: []
-dateModified: '2016-07-01T15:03:45.910Z'
+dateModified: '2016-07-02T21:25:30.104Z'
 title: A Long Overdue Documentary About Dieter Rams
 publisher:
   domain: design-milk.com
@@ -29,7 +29,7 @@ Via [Design Milk][1]
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f659be791d571954c20605b067dcc48f450adb7.jpg" /></article>
 
-
+Hello
 
 [0]: http://design-milk.com/long-overdue-documentary-dieter-rams/ "Dieter Rams Documentary"
 [1]: http://design-milk.com/long-overdue-documentary-dieter-rams/
