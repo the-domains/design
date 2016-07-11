@@ -4,7 +4,7 @@
         <description><![CDATA[Design I Like]]></description>
         <link>https://thegrid.ai/design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 21:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2016 18:01:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/design/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hayden Cox on The Great Discontent]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/design/f614dd01-a403-499f-a4cf-e4235a60aafb/index.html</link>
             <guid isPermaLink="false">f614dd01-a403-499f-a4cf-e4235a60aafb</guid>
             <pubDate>Fri, 01 Jul 2016 18:46:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Logos]]></title>
+            <description><![CDATA[<article><h1>Logos</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d58defd-a277-4e79-bf54-13c6c464eaeb.png"></article>]]></description>
+            <link>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtRgmGGzjJMBKeTr873L9s1t_ezGWYYj_wzqCiv-xdbuQ8UuMb</link>
+            <guid isPermaLink="false">42b7cb5f-63ca-48a5-9d8a-f472b8f35db0</guid>
+            <pubDate>Mon, 11 Jul 2016 18:01:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Long Overdue Documentary About Dieter Rams]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.adablackjackgoods.com/collections/frontpage/products/no-2-backpack-terracotta</link>
             <guid isPermaLink="false">233a2cd7-396f-4f81-86bf-a0126aedd751</guid>
             <pubDate>Fri, 01 Jul 2016 18:47:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Porsche]]></title>
-            <description><![CDATA[<img src="http://40.media.tumblr.com/0e3b9fc070733435ceea2dadf379ef1b/tumblr_n7clo4RgXi1qlwlsko1_1280.jpg">]]></description>
-            <link>https://thegrid.ai/design/29bc4285-b5c1-4c41-830c-62b29c38127b/index.html</link>
-            <guid isPermaLink="false">29bc4285-b5c1-4c41-830c-62b29c38127b</guid>
-            <pubDate>Fri, 01 Jul 2016 18:47:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
