@@ -1,37 +1,14 @@
+name: Design
+favicon: null
+layout_spectrum: 1
 typography_spectrum: 1
-color:
-  brandColors:
-    - '#ffffff'
-    - '#666666'
-    - '#989898'
-    - '#000000'
-    - '#db1b22'
-  brandStrength: 0.5
-  lightness: 0.5625
-  saturation: 0
-  rhythmicContrast: 0.75
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.1115
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 author:
   name: Nick Jones
   email: nickjones@theexperiment.io
   url: narrowdesign.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/46686586-5d85-4e7f-b17b-dd44c775fb09.png
-name: design
-cta:
-  domain: null
-  bucket: null
-  version: null
 style: the-composer
-favicon: null
 collections:
   - filter:
       notType:
@@ -57,4 +34,27 @@ collections:
       path: '/:title/'
       navigable: true
 title: Design I Like
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#666666'
+    - '#989898'
+    - '#000000'
+    - '#db1b22'
+  brandStrength: 0.5
+  lightness: 0.5625
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
