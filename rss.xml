@@ -4,7 +4,7 @@
         <description><![CDATA[Design I Like]]></description>
         <link>https://thegrid.ai/design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 00:08:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 00:10:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/design/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/design/cox/index.html</link>
             <guid isPermaLink="false">db66c1ff-7c5d-428f-a311-c52a31acf2fa</guid>
             <pubDate>Fri, 01 Jul 2016 18:47:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/115f85eadc67c1f2e50f3a6bd2f404be/noop.jpg?input=http%3A%2F%2Fs3.media.squarespace.com%2Fproduction%2F504645%2F5838989%2F2010%2F02%2F303351214_679bddab17.jpg"><p>Josef M&uuml;ller-Brockmann</p></article>]]></description>
+            <link>http://s3.media.squarespace.com/production/504645/5838989/2010/02/303351214_679bddab17.jpg</link>
+            <guid isPermaLink="false">bfbe9cf1-4f6b-4608-83e0-7d4a331bd298</guid>
+            <pubDate>Sun, 21 Aug 2016 00:10:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Brands]]></title>
@@ -40,13 +47,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f03a9f99-ea1a-4385-ac6b-33048c207cf2.jpg</link>
             <guid isPermaLink="false">8460e9a5-556e-4915-a8bc-4fb5de9cb183</guid>
             <pubDate>Mon, 01 Aug 2016 15:27:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="http://s3.media.squarespace.com/production/504645/5838989/2010/02/303351214_679bddab17.jpg"></article>]]></description>
-            <link>http://s3.media.squarespace.com/production/504645/5838989/2010/02/303351214_679bddab17.jpg</link>
-            <guid isPermaLink="false">bfbe9cf1-4f6b-4608-83e0-7d4a331bd298</guid>
-            <pubDate>Mon, 01 Aug 2016 15:01:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Long Overdue Documentary About Dieter Rams]]></title>
