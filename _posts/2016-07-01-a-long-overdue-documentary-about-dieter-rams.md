@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-09-02T15:36:25.853Z'
+datePublished: '2016-09-02T15:36:58.336Z'
 sourcePath: _posts/2016-07-01-a-long-overdue-documentary-about-dieter-rams.md
 author: []
-dateModified: '2016-09-02T15:36:25.222Z'
-title: The Designer
+via: {}
+dateModified: '2016-09-02T15:36:57.777Z'
+title: The Documentary
 publisher: {}
 description: Via Design Milk
-via: {}
 starred: false
 inFeed: true
 hasPage: true
@@ -16,7 +16,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# [The Designer][0]
+# [The Documentary][0]
 
 Via [Design Milk][1]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1dfa52d91f024522a50372f60b7b3a434844ed1f.jpg)
