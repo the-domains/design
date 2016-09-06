@@ -56,5 +56,5 @@ collections:
       path: '/:title/'
       navigable: true
 title: Design I Like
-description: Nothing I don’t
+description: And nothing I don’t
 purpose: []
