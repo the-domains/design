@@ -1,11 +1,12 @@
 ---
+datePublished: '2016-09-02T15:39:51.385Z'
+sourcePath: >-
+  _posts/2015-08-30-bisiluro-carlo-mollino-and-the-damolnar-news-and-stories-at.md
 inFeed: true
-hasPage: false
-inNav: false
 isBasedOnUrl: >-
   http://www.stylepark.com/en/news/bisiluro-brcarlo-mollino-and-the-damolnar/361247
-inLanguage: en
-starred: false
+authors: []
+hasPage: false
 keywords:
   - mollino
   - bisiluro
@@ -17,27 +18,29 @@ keywords:
   - turin
   - scienza
   - damolnar
-description: >-
-  Bisiluro: Carlo Mollino and the Damolnar by Thomas Wagner | 12 August 2015
-  Mario Dalmonte, Carlo Mollino and Enrico Nardi created in 1955 the "Damolnar",
-  also named "Bisiluro". Photo © Museo Nazionale della Scienza e della
-  Tecnologia, Milano The strangest things of all grow in the machine world.
-datePublished: '2016-07-01T19:30:16.331Z'
-dateModified: '2015-11-10T02:30:30.121Z'
-author: []
 related: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-09-02T15:39:50.804Z'
+title: 'The '
 app_links: []
-title: 'Bisiluro: Carlo Mollino and the Damolnar'
-sourcePath: >-
-  _posts/2015-08-30-bisiluro-carlo-mollino-and-the-damolnar-news-and-stories-at.md
-authors: []
 publisher:
   name: Stylepark
   domain: www.stylepark.com
   url: 'http://www.stylepark.com'
   favicon: 'http://www.stylepark.com/favicon.ico'
+description: >-
+  Bisiluro: Carlo Mollino and the Damolnar by Thomas Wagner | 12 August 2015
+  Mario Dalmonte, Carlo Mollino and Enrico Nardi created in 1955 the "Damolnar",
+  also named "Bisiluro". Photo © Museo Nazionale della Scienza e della
+  Tecnologia, Milano The strangest things of all grow in the machine world.
+inLanguage: en
+inNav: false
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Bisiluro: Carlo Mollino and the Damolnar</h1><p>Bisiluro: Carlo Mollino and the Damolnar by Thomas Wagner | 12 August 2015 Mario Dalmonte, Carlo Mollino and Enrico Nardi created in 1955 the "Damolnar", also named "Bisiluro". Photo © Museo Nazionale della Scienza e della Tecnologia, Milano The strangest things of all grow in the machine world.</p><img src="http://www.stylepark.com/db-images/cms/article/img/l2_v361247_958_992_1431-3.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76e0f46839fe7523e4d4f053e89ecaa74ad31b07.jpg" /><h1>The </h1><p>Bisiluro: Carlo Mollino and the Damolnar by Thomas Wagner | 12 August 2015 Mario Dalmonte, Carlo Mollino and Enrico Nardi created in 1955 the "Damolnar", also named "Bisiluro". Photo © Museo Nazionale della Scienza e della Tecnologia, Milano The strangest things of all grow in the machine world.</p></article>
