@@ -4,7 +4,7 @@
         <description><![CDATA[Design I Like]]></description>
         <link>https://thegrid.ai/design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 15:26:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 15:35:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/design/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Designers]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/design/cox/index.html</link>
             <guid isPermaLink="false">db66c1ff-7c5d-428f-a311-c52a31acf2fa</guid>
             <pubDate>Fri, 01 Jul 2016 18:47:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Swiss]]></title>
+            <description><![CDATA[<article><h1>The Swiss</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e8b5beaa58d94e36685c38a6c260e0bed2645a4.gif"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f03a9f99-ea1a-4385-ac6b-33048c207cf2.jpg</link>
+            <guid isPermaLink="false">8460e9a5-556e-4915-a8bc-4fb5de9cb183</guid>
+            <pubDate>Fri, 02 Sep 2016 15:35:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Simplicity]]></title>
@@ -54,13 +61,6 @@
             <link>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtRgmGGzjJMBKeTr873L9s1t_ezGWYYj_wzqCiv-xdbuQ8UuMb</link>
             <guid isPermaLink="false">42b7cb5f-63ca-48a5-9d8a-f472b8f35db0</guid>
             <pubDate>Sun, 21 Aug 2016 00:08:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Swiss In CSS]]></title>
-            <description><![CDATA[<article><h1>Swiss In CSS</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e8b5beaa58d94e36685c38a6c260e0bed2645a4.gif"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f03a9f99-ea1a-4385-ac6b-33048c207cf2.jpg</link>
-            <guid isPermaLink="false">8460e9a5-556e-4915-a8bc-4fb5de9cb183</guid>
-            <pubDate>Mon, 01 Aug 2016 15:27:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Long Overdue Documentary About Dieter Rams]]></title>
