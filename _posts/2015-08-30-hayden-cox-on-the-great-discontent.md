@@ -1,8 +1,9 @@
 ---
+datePublished: '2016-09-02T15:41:06.965Z'
+sourcePath: _posts/2015-08-30-hayden-cox-on-the-great-discontent.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: true
-inLanguage: en
 keywords:
   - surfboard
   - boards
@@ -14,29 +15,29 @@ keywords:
   - design
   - haydenshapes
   - creative
-description: >-
-  Hayden Cox is an Australian surfboard designer who got into the business of
-  making surfboards at the age of 15 and continues to run his eponymous brand,
-  Haydenshapes, today.
-datePublished: '2016-07-01T18:47:51.259Z'
-dateModified: '2016-07-01T18:47:50.749Z'
+related: []
 author:
   - name: ''
     url: ''
-related: []
+via: {}
+dateModified: '2016-09-02T15:41:06.592Z'
+title: The Spirit
 app_links: []
-title: Hayden Cox on The Great Discontent
-sourcePath: _posts/2015-08-30-hayden-cox-on-the-great-discontent.md
-authors: []
 publisher:
   name: The Great Discontent
   domain: thegreatdiscontent.com
   url: 'https://thegreatdiscontent.com'
   favicon: 'https://thegreatdiscontent.com/favicon.ico'
+description: >-
+  Hayden Cox is an Australian surfboard designer who got into the business of
+  making surfboards at the age of 15 and continues to run his eponymous brand,
+  Haydenshapes, today.
+inLanguage: en
+inNav: true
 starred: true
 url: cox/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Hayden Cox on The Great Discontent</h1><p>Hayden Cox is an Australian surfboard designer who got into the business of making surfboards at the age of 15 and continues to run his eponymous brand, Haydenshapes, today.</p><img src="https://coyote.imgix.net/184-hayden-cox/hayden-cox-toby-pete-hero.jpg?w=1200" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25a273a29727165c49ebe435db292be58d90cc9e.jpg" /><h1>The Spirit</h1><p>Hayden Cox is an Australian surfboard designer who got into the business of making surfboards at the age of 15 and continues to run his eponymous brand, Haydenshapes, today.</p></article>
