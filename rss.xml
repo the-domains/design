@@ -4,7 +4,7 @@
         <description><![CDATA[Design I Like]]></description>
         <link>https://thegrid.ai/design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 22:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 22:26:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/design/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Spirit]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/design/f614dd01-a403-499f-a4cf-e4235a60aafb/index.html</link>
             <guid isPermaLink="false">f614dd01-a403-499f-a4cf-e4235a60aafb</guid>
             <pubDate>Fri, 02 Sep 2016 15:26:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Modularity]]></title>
+            <description><![CDATA[<article><h1>The Modularity</h1><p>The 606 Universal Shelving System, made by Vitsœ and designed by Dieter Rams, is timeless, adaptable, and constantly evolving.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/210657cdbc512b01096eaad6986ae4772c72e760.jpg"></article>]]></description>
+            <link>https://www.vitsoe.com/us/606</link>
+            <guid isPermaLink="false">4c95adc0-2256-4a52-b19d-e8bafacf8dc6</guid>
+            <pubDate>Fri, 02 Sep 2016 22:26:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Principles]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.adablackjackgoods.com/collections/frontpage/products/no-2-backpack-terracotta</link>
             <guid isPermaLink="false">233a2cd7-396f-4f81-86bf-a0126aedd751</guid>
             <pubDate>Fri, 02 Sep 2016 15:38:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Chair]]></title>
-            <description><![CDATA[<article><h1>The Chair</h1><p>MR 90 Barcelona Seat by Ludwig Mies van der Rohe</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8adc17f7168348eff459e199df8843e1a95633e6.jpg"></article>]]></description>
-            <link>https://thegrid.ai/design/van-der-rohe/index.html</link>
-            <guid isPermaLink="false">4616628a-34f4-4c11-a6bf-1f38b5f25414</guid>
-            <pubDate>Fri, 02 Sep 2016 15:37:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
