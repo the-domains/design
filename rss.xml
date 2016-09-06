@@ -4,7 +4,7 @@
         <description><![CDATA[Design I Like]]></description>
         <link>https://thegrid.ai/design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 14:46:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 14:47:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/design/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/design/cox/index.html</link>
             <guid isPermaLink="false">db66c1ff-7c5d-428f-a311-c52a31acf2fa</guid>
             <pubDate>Fri, 01 Jul 2016 18:47:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Geometry]]></title>
+            <description><![CDATA[<article><h1>The Geometry</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0fa8c4a72975d0969b09f82d83a413b4782a80db.jpg"></article>]]></description>
+            <link>https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e5f890ecd44071c7e514ef02b3dd790c/noop.jpg?input=http%3A%2F%2Fwww.blanka.co.uk%2Fi%2Fproducts%2F815.jpg</link>
+            <guid isPermaLink="false">bf304426-65e3-491f-93f1-984a4a4d11c0</guid>
+            <pubDate>Fri, 02 Sep 2016 14:47:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Book]]></title>
@@ -40,13 +47,6 @@
             <link>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtRgmGGzjJMBKeTr873L9s1t_ezGWYYj_wzqCiv-xdbuQ8UuMb</link>
             <guid isPermaLink="false">42b7cb5f-63ca-48a5-9d8a-f472b8f35db0</guid>
             <pubDate>Sun, 21 Aug 2016 00:08:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0fa8c4a72975d0969b09f82d83a413b4782a80db.jpg"></article>]]></description>
-            <link>https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e5f890ecd44071c7e514ef02b3dd790c/noop.jpg?input=http%3A%2F%2Fwww.blanka.co.uk%2Fi%2Fproducts%2F815.jpg</link>
-            <guid isPermaLink="false">bf304426-65e3-491f-93f1-984a4a4d11c0</guid>
-            <pubDate>Mon, 01 Aug 2016 16:42:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Swiss In CSS]]></title>
