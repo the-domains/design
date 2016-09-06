@@ -4,7 +4,7 @@
         <description><![CDATA[Design I Like]]></description>
         <link>https://thegrid.ai/design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 15:41:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 15:41:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/design/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Spirit]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/design/f614dd01-a403-499f-a4cf-e4235a60aafb/index.html</link>
             <guid isPermaLink="false">f614dd01-a403-499f-a4cf-e4235a60aafb</guid>
             <pubDate>Fri, 02 Sep 2016 15:26:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Character]]></title>
+            <description><![CDATA[<article><h1>The Character</h1><p>Sleek and characterized by sharp edges and metallic finishes, Urkainian design bureau ODESD2 presented the E3, E4, and E1. The mini collection of chairs and bar stools are inspired by Japanese culture and fitting for a workspace, dining room, or bar area.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c2b65a2bce6ecd733c9cee4d1e16bc545ea931c.jpg"></article>]]></description>
+            <link>http://design-milk.com/new-architectural-chairs-odesd2/</link>
+            <guid isPermaLink="false">9357b261-5876-4d1e-bc24-00b614b97b6e</guid>
+            <pubDate>Fri, 02 Sep 2016 15:41:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Romance]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f03a9f99-ea1a-4385-ac6b-33048c207cf2.jpg</link>
             <guid isPermaLink="false">8460e9a5-556e-4915-a8bc-4fb5de9cb183</guid>
             <pubDate>Fri, 02 Sep 2016 15:35:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Simplicity]]></title>
-            <description><![CDATA[<article><h1>The Simplicity</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6a9310ef1dd2c0b0f71af2ea8b898240/croprotate.jpg?cropheight=1549&cropwidth=1199&degrees=0&input=http%3A%2F%2F0.design-milk.com%2Fimages%2F2016%2F06%2FLensvelt_PressHR_LS_Boring_clock.jpg&x=0&y=0"></article>]]></description>
-            <link>https://thegrid.ai/design/bce85f81-3b29-4a17-8533-a9e25c472cde/index.html</link>
-            <guid isPermaLink="false">bce85f81-3b29-4a17-8533-a9e25c472cde</guid>
-            <pubDate>Fri, 02 Sep 2016 15:26:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
