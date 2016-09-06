@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-02T15:36:58.336Z'
+datePublished: '2016-09-02T15:43:46.799Z'
 sourcePath: _posts/2016-07-01-a-long-overdue-documentary-about-dieter-rams.md
 author: []
 via: {}
-dateModified: '2016-09-02T15:36:57.777Z'
+dateModified: '2016-09-02T15:43:46.232Z'
 title: The Documentary
 publisher: {}
 description: Via Design Milk
@@ -23,8 +23,6 @@ Via [Design Milk][1]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c57bccbcd8ace674ca56ef0de18add8f695dfad3.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d93903b6554ebf7575881419e5a1c867bf84a128.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f659be791d571954c20605b067dcc48f450adb7.jpg)
-
-Hello
 
 [0]: http://design-milk.com/long-overdue-documentary-dieter-rams/ "Dieter Rams Documentary"
 [1]: http://design-milk.com/long-overdue-documentary-dieter-rams/
