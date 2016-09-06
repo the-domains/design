@@ -4,7 +4,7 @@
         <description><![CDATA[Design I Like]]></description>
         <link>https://thegrid.ai/design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 15:37:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 15:38:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/design/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Designers]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/design/cox/index.html</link>
             <guid isPermaLink="false">db66c1ff-7c5d-428f-a311-c52a31acf2fa</guid>
             <pubDate>Fri, 01 Jul 2016 18:47:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Comfort]]></title>
+            <description><![CDATA[<article><h1>The Comfort</h1><p>Ada Blackjack goods are carefully crafted by hand using only the ﬁnest materials and fabrics. Each item is made with great attention to detail and special craftsmanship, essential when making goods that last. The minimal designs are characterized by simplicity, timelessness and durability.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ecd9e936154e0b76149c704bae6d2c1cdd50d799.jpg"></article>]]></description>
+            <link>http://www.adablackjackgoods.com/collections/frontpage/products/no-2-backpack-terracotta</link>
+            <guid isPermaLink="false">233a2cd7-396f-4f81-86bf-a0126aedd751</guid>
+            <pubDate>Fri, 02 Sep 2016 15:38:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Chair]]></title>
@@ -68,13 +75,6 @@
             <link>http://s3.media.squarespace.com/production/504645/5838989/2010/02/303351214_679bddab17.jpg</link>
             <guid isPermaLink="false">bfbe9cf1-4f6b-4608-83e0-7d4a331bd298</guid>
             <pubDate>Fri, 02 Sep 2016 14:46:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Brands]]></title>
-            <description><![CDATA[<article><h1>The Brands</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d58defd-a277-4e79-bf54-13c6c464eaeb.png"></article>]]></description>
-            <link>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtRgmGGzjJMBKeTr873L9s1t_ezGWYYj_wzqCiv-xdbuQ8UuMb</link>
-            <guid isPermaLink="false">42b7cb5f-63ca-48a5-9d8a-f472b8f35db0</guid>
-            <pubDate>Sun, 21 Aug 2016 00:08:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
