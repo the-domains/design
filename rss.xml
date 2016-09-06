@@ -4,7 +4,7 @@
         <description><![CDATA[Design I Like]]></description>
         <link>https://thegrid.ai/design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 15:37:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 15:37:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/design/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Designers]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/design/cox/index.html</link>
             <guid isPermaLink="false">db66c1ff-7c5d-428f-a311-c52a31acf2fa</guid>
             <pubDate>Fri, 01 Jul 2016 18:47:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ten Principles For Good Design' by Shuffle]]></title>
+            <description><![CDATA[<article><h1>Ten Principles For Good Design' by Shuffle</h1><p>Back in the late 1970s, Dieter Rams was becoming increasingly concerned by the state of the world around him - "an impenetrable confusion of forms, colours and noises." Aware that he was a significant contributor to that world, he asked himself an important question: is my design good design?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5cbbe1aa08634d1f768d10e52046eca2a53cd3d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/design/rams/index.html</link>
+            <guid isPermaLink="false">5ec8802f-beb4-4ed6-b344-196c85df4641</guid>
+            <pubDate>Fri, 02 Sep 2016 15:37:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Documentary]]></title>
